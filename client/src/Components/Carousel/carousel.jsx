@@ -5,6 +5,8 @@ import carouselimg01 from '../../assets/image1.jpg';
 import carouselimg02 from '../../assets/image2.jpg';
 import carouselimg03 from '../../assets/image3.jpg';
 
+// comment
+
 const Carousel = () => {
   const settings = {
     dots: true,
